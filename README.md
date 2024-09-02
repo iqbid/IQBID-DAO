@@ -42,7 +42,7 @@ Blockchain guarantees full transparency of income/expenses of DAO, free access t
 
 More information about DAO - https://coinmarketcap.com/alexandria/en/glossary/decentralized-autonomous-organizations-dao
 
-Participation in DAO is formalized through the purchase of IQBIDGT management tokens. To apply or ask questions - https://iqbid.io/contact
+Participation in DAO is formalized through the purchase of IQBIDGT management tokens. To apply or ask questions - support@iqbid.ai 
 
 ------------------------------------------
 
@@ -90,4 +90,4 @@ DAO управляется коллегиально через систему э
 
 Подробнее о DAO - https://coinmarketcap.com/alexandria/ru/glossary/decentralized-autonomous-organizations-dao 
 
-Оформление участия в DAO производится через покупку управляющих токенов IQBIDGT. Подать заявку или задать вопрос - https://iqbid.io/contact
+Оформление участия в DAO производится через покупку управляющих токенов IQBIDGT. Подать заявку или задать вопрос - support@iqbid.ai
