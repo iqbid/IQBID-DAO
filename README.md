@@ -1,10 +1,10 @@
-##What is IQBID?
+## What is IQBID?
 
 IQBID is a hub consisting of a set of popular services that complement each other and form a single ecosystem. IQBID's goal is to create a comfortable environment that allows our users to capitalize on their talent as creators and their ability to navigate the advanced world of digital technologies and game entertainment.
 
 Services that can give our users real opportunities to create, earn and become famous are being launched.
 
-##IQBID service infrastructure
+## IQBID service infrastructure
 
 🔹 IQBID AI is a neural network aggregator that empowers users to generate various digital content using artificial intelligence.  Read more - https://iqbid.ai
 
@@ -14,11 +14,11 @@ Services that can give our users real opportunities to create, earn and become f
 
 Important feature: Along with traditional web and mobile applications (PWA), all services of the IQBID ecosystem work inside Telegram in the format of mini-applications. To access, please use the link - https://t.me/iqbid_bot.
 
-##IQBID Investment Program.
+## IQBID Investment Program.
 
 IQBID investment program is aimed at creating profitable investment products for partners who have joined the project community.
 
-##IQBID investment products
+## IQBID investment products
 
 🔹 Managing Investor - a person who invests in IQBID project by purchasing IQBIDGT Managing Tokens, which give him/her the right to receive dividends from all IQBID services and the right to vote on key issues of IQBID project management, including redistribution of valuable assets located on IQBID DAO wallets. The weight of the vote and the amount of dividends paid determines the percentage of equity ownership. Read more - https://iqbid.io
 
